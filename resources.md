@@ -26,7 +26,7 @@ permalink: /resources/
 ### Other Events
 
 - Michigan Pasty Day, May 24th (officially celebrated since 1968)
-- [Pastyfest](http://www.mainstreetcalumet.com/eventscalendar.html){:target="_blank"}, the weekend before 4th of July. Parade, vendors, music at [Calumet, Michigan](https://www.google.com/maps/place/Calumet,+Calumet+Twp,+MI+49913/){:target="_blank"}. 
+- [Pastyfest](http://www.mainstreetcalumet.com/pasty-fest-2019.html){:target="_blank"}, the weekend before 4th of July. Parade, vendors, music at [Calumet, Michigan](https://www.google.com/maps/place/Calumet,+Calumet+Twp,+MI+49913/){:target="_blank"}. 
 
 ### Other 
 
