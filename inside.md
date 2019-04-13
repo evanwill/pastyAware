@@ -3,7 +3,7 @@ layout: page
 title: Inside
 ---
 
-![Pasty Insides](/images/pastyInsides.jpg "pasty insides")
+![Pasty Insides]({{ '/assets/images/pastyInsides.jpg' | relative_url }} "pasty insides")
 
 ## Pasties are made of two parts:
 
@@ -16,3 +16,4 @@ I suggest eating them at the same time, although others may pick them apart and 
 
 Adding a sauce such as [ketchup](https://en.wikipedia.org/wiki/Ketchup){:target="_blank"} is optional, but can be quite tasty.
 Some people add gravy for some unknown reason.
+Pasties are plenty delicious *without* gravy.
