@@ -3,7 +3,7 @@ layout: page
 title: "#PastyAware"
 ---
 
-![Pasty]({{ '/assets/images/pasty.jpg' | relative_url }} "pasty")
+![Pasty]({{ '/assets/images/pastyOpt.jpg' | relative_url }} "pasty")
 
 [Pasties](https://en.wikipedia.org/wiki/Pasty){:target="_blank"} are an important cultural food for the diverse peoples of [Upper Michigan](https://en.wikipedia.org/wiki/Upper_Peninsula_of_Michigan){:target="_blank"} and the [Iron Range](https://en.wikipedia.org/wiki/Iron_Range){:target="_blank"} of Minnesota.
 They are delicious!

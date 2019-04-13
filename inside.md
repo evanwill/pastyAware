@@ -4,7 +4,7 @@ title: Inside
 permalink: /inside/
 ---
 
-![Pasty Insides]({{ '/assets/images/pastyInsides.jpg' | relative_url }} "pasty insides")
+![Pasty Insides]({{ '/assets/images/pastyInsidesOpt.jpg' | relative_url }} "pasty insides")
 
 ## Pasties are made of two parts:
 
