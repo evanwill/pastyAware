@@ -5,7 +5,7 @@
 title: Pasty Awareness Week
 description: "National Pasty Awareness Week seeks to bring attention to this little known cultural food treasure to improve the lives of all Americans."
 keywords: "pasty, national holiday, food culture"
-featured-image: "/images/pastyProfile.jpg"
+featured-image: "/assets/images/pastyProfile.jpg"
 
 # author settings
 author: evan will
@@ -18,6 +18,9 @@ repo: "https://github.com/evanwill/pastyAware"
 # site urls
 url: https://evanwill.github.io
 baseurl: /pastyAware
+
+# use JEKYLL_ENV=production on build command
+google_analytics: UA-74844011-1
 
 # Build settings
 markdown: kramdown
