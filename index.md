@@ -1,8 +1,7 @@
 ---
 layout: page
+title: "#PastyAware"
 ---
-
-# #PastyAware
 
 ![Pasty]({{ '/assets/images/pasty.jpg' | relative_url }} "pasty")
 

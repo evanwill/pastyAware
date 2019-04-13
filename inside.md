@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Inside
+permalink: /inside/
 ---
 
 ![Pasty Insides]({{ '/assets/images/pastyInsides.jpg' | relative_url }} "pasty insides")

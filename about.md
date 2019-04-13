@@ -1,6 +1,7 @@
 ---
 layout: page
 title: About
+permalink: /about/
 ---
 
 Pasty is pronounced "pass-tee", `\ˈpas-tē\`. 

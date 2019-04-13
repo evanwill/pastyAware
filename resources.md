@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Resources
+permalink: /resources/
 ---
 
 - [Pasty profile image]({{ '/assets/images/pastyProfile.jpg' | relative_url }}) for social media.

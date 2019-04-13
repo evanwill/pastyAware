@@ -12,6 +12,11 @@ author: evan will
 pub_year: 2016
 github_username: evanwill
 
+header_pages:
+ - about.md
+ - inside.md
+ - resources.md
+
 # github repository
 repo: "https://github.com/evanwill/pastyAware"
 
