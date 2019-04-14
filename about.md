@@ -6,11 +6,11 @@ permalink: /about/
 
 Pasty is pronounced "pass-tee", `\ˈpas-tē\`. 
 It doesn't sound like "paste". 
-[Definition one at Merriam-Webster](http://www.merriam-webster.com/dictionary/pasty){:target="_blank"} says it correctly.
+[Definition one at Merriam-Webster](http://www.merriam-webster.com/dictionary/pasty){:target="_blank"} says it correctly, although "a meat pie" seems an unnecessarily generic definition of this [culinary delicacy]({{ '/inside/' | relative_url }}). 
     
 Most importantly, pasties are delicious.
 
-National Pasty Awareness Week seeks to share this truth with all Americans. 
+**National Pasty Awareness Week** seeks to share this truth with all Americans. 
 
 ### Participate
 
