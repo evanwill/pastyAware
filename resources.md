@@ -22,6 +22,8 @@ permalink: /resources/
 
 - Toni's Country Kitchen [(Laurium, MI)](https://www.google.com/maps/place/Toni's+Country+Kitchen/@47.2365973,-88.4424539,15z/data=!4m2!3m1!1s0x0:0x5c107a0067cfc966){:target="_blank"}
 - Pasties Plus [(Grand Rapids, MN)](https://www.google.com/maps/place/Pasties+Plus/@47.2361915,-93.5502384,15z/data=!4m2!3m1!1s0x0:0x109cc7ef562439a9){:target="_blank"}
+- [Who Ships Pasties? (from The Pasty Guy)](https://thepastyguy.com/portfolio/who-ships-pasties/) ([archive](https://web.archive.org/web/20210228224849/https://thepastyguy.com/portfolio/who-ships-pasties/)).
+- [Keweenaw Pasty Trail](https://www.keweenaw.info/attractions/keweenaw-pasty-trail/) ([archive](https://web.archive.org/web/20210411100418/https://www.keweenaw.info/attractions/keweenaw-pasty-trail/)).
 
 ### Other Events
 
@@ -30,4 +32,5 @@ permalink: /resources/
 
 ### Other 
 
-- Some [Pasty Poetry (2006)](http://www.pasty.com/discus/messages/411/2341.html){:target="_blank"} ([archive](https://web.archive.org/web/20190413065618/https://www.pasty.com/discus/messages/411/2341.html)).
+- Some [Pasty Poetry (2006)](http://www.pasty.com/discus/messages/411/2341.html){:target="_blank"} ([archive](https://web.archive.org/web/20190413065618/https://www.pasty.com/discus/messages/411/2341.html))
+- [The Pasty Guy](https://thepastyguy.com/) (blog reviews)
